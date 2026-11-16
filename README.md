@@ -5,3 +5,8 @@
 - 💻 Focado em desenvolvimento Back-end
 - 📫 Contato: **gabrielgastaldi22@gmail.com**
 
+<div>
+  <a href="https://github.com/Gbz027">
+  <img width="42%" src="https://github-stats-extended.vercel.app/api?username=Gbz027">
+  <img width="50%" src="https://github.com/stats-organization/github-stats-extended">
+</div>
