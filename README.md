@@ -8,5 +8,5 @@
 <div>
   <a href="https://github.com/Gbz027">
   <img width="42%" src="https://github-stats-extended.vercel.app/api?username=Gbz027&rank_icon=github&custom_title=Gbz027%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github">
-  <img width="50%" src="https://github.com/stats-organization/github-stats-extended">
+  <img width="18%" src="https://github.com/stats-organization/github-stats-extended">
 </div>
