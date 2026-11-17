@@ -11,8 +11,10 @@
 </a> <img width="57%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gbz027&langs_count=4&theme=dark_github">
 </div>
 
-<div>
-  
+---
+
+### Linguagens e Tecnologias</h2>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 width="37"
 height="37" />
