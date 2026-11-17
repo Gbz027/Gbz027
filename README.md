@@ -5,14 +5,6 @@
 - 💻 Focado em desenvolvimento Back-end
 - 📫 Contato: **gabrielgastaldi22@gmail.com**
 
-<div align="center">
-<a href="https://github.com/Gbz027">
-<img width="42%" src="https://github-stats-extended.vercel.app/api?username=Gbz027&rank_icon=github&custom_title=Gbz027%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github">
-</a> <img width="57%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gbz027&langs_count=4&theme=dark_github">
-</div>
-
----
-
 ### Linguagens e Tecnologias</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -24,6 +16,14 @@ height="37" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 width="37"
 height="37" />  
+</div>
+
+---
+
+<div align="center">
+<a href="https://github.com/Gbz027">
+<img width="42%" src="https://github-stats-extended.vercel.app/api?username=Gbz027&rank_icon=github&custom_title=Gbz027%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github">
+</a> <img width="57%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gbz027&langs_count=4&theme=dark_github">
 </div>
 
 ##
