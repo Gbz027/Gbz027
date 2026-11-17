@@ -8,6 +8,20 @@
 <div align="center">
 <a href="https://github.com/Gbz027">
 <img width="42%" src="https://github-stats-extended.vercel.app/api?username=Gbz027&rank_icon=github&custom_title=Gbz027%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github">
-</a> <img width="57%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gbz027&langs_count=4&theme=dark_github"> </div>
+</a> <img width="57%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Gbz027&langs_count=4&theme=dark_github">
+</div>
+
+<div>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+width="45"
+height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+width="45"
+height="40" />
   
 </div>
+
+          
+
